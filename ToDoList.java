@@ -1,4 +1,4 @@
-/*This menu driven program of to do list is originally written by Manish Tiwari. This is just for learning and improving my skills 
+/*This menu driven program of to do list is originally written by Manish Tiwari. 
 */
 import java.util.*;
 public class ToDoList {
